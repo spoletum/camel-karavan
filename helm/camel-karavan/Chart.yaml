@@ -1,0 +1,7 @@
+apiVersion: "v2"
+name: "camel-karavan"
+description: "A Helm chart for Camel Karavan, a visual tool for working with Apache Camel Kamelets and integrations."
+
+type: "application"
+version: "0.0.1"
+appVersion: "4.5.0"
