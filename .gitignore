@@ -55,6 +55,7 @@ yarn-error.log*
 *.jar
 
 **/*.tgz
+
 **/*.vsix
 **/*.bak
 
@@ -80,3 +81,6 @@ docs/install/karavan-docker/data/*
 **/dependency-reduced-pom.xml
 
 .env
+
+# Added by feature 1172 - allow versioning of helm charts
+!/helm/**/*.tgz
